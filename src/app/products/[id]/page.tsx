@@ -1,4 +1,4 @@
-import { products } from "@/lib/products";
+import { products } from "@/src/lib/products";
 import { notFound } from "next/navigation";
 
 type Props = {
